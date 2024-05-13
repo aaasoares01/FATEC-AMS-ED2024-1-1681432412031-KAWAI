@@ -1,3 +1,10 @@
+/*--------------------------------------------------------------------------*/
+/*   FATEC-São Caetano do Sul                 Estrutura de Dados            */
+/*                         Prof Veríssimo                                   */
+/*             Objetivo: Atendimento hospitalar através de FILA             */
+/*                                                                          */
+/*                                                       Data:18/03/2024    */
+/*--------------------------------------------------------------------------*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
