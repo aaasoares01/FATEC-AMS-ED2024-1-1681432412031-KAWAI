@@ -3,7 +3,7 @@
 /*                         Prof Veríssimo                                   */
 /*             Objetivo: Atendimento hospitalar através de FILA             */
 /*                                                                          */
-/*   Autor: Kawai Bonilha Soares                         Data:18/03/2024    */
+/*                                                       Data:18/03/2024    */
 /*--------------------------------------------------------------------------*/
 #include <stdio.h>
 #include <time.h>
